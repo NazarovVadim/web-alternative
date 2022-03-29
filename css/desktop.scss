@@ -1,0 +1,20 @@
+@media (min-width: 769px){
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    
+    .desktop{
+        display: flex;
+    }
+    .mobile{
+        display: none;
+    }
+
+    body{
+        background: #171718;
+        position: relative;
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+    }
+}
