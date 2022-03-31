@@ -608,7 +608,7 @@
   .form-container {
     background-color: #1d1d1d;
     background-image: url("/img/bg6.png");
-    background-size: contain;
+    background-size: 100vw;
     padding: 18vh 5vw 12vh;
   }
   .form-container .form-container__title {
