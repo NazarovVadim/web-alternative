@@ -167,7 +167,7 @@
 
     .how{
         padding: 9vh 17vw;
-        background-image: url('/img/pc-bg2.png');
+        background-image: url('./img/pc-bg2.png');
         background-size: 100vw;
         background-repeat: no-repeat;
 
@@ -456,16 +456,16 @@
                 border-radius: .3vw;
             }
             .cases-item__img1{
-                background-image: url('/img/case1.png');
+                background-image: url('./img/case1.png');
             }
             .cases-item__img2{
-                background-image: url('/img/case2.png');
+                background-image: url('./img/case2.png');
             }
             .cases-item__img3{
-                background-image: url('/img/case3.png');
+                background-image: url('./img/case3.png');
             }
             .cases-item__img4{
-                background-image: url('/img/case4.png');
+                background-image: url('./img/case4.png');
             }
             .cases-item__title{
                 text-align: left;
@@ -576,7 +576,7 @@
         position: relative;
         width: 84vw;
         padding-bottom: 15vh;
-        
+        text-align: center;
         margin: 0 auto;
 
         .slick-list{
@@ -643,13 +643,13 @@
         }
         .slick-prev{
             left: 35vw;
-            background: url('/img/left.svg') 0 0 no-repeat;
+            background: url('./img/left.svg') 0 0 no-repeat;
             background-position: center;
             background-size: 20%;
         }
         .slick-next{
             right: 35vw;
-            background: url('/img/right.svg') 0 0 no-repeat;
+            background: url('./img/right.svg') 0 0 no-repeat;
             background-position: center;
             background-size: 20%;
         }

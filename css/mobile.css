@@ -98,7 +98,7 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    background-image: url("/img/bg1.svg");
+    background-image: url("./img/bg1.svg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 7.5vh;
@@ -269,7 +269,7 @@
   }
   .features {
     background-color: #1d1d1d;
-    background-image: url("/img/bg3.svg");
+    background-image: url("./img/bg3.svg");
     background-size: contain;
     padding-top: 7.5vh;
   }
@@ -394,7 +394,7 @@
   }
   .cases {
     background-color: #1d1d1d;
-    background-image: url("/img/bg3.svg");
+    background-image: url("./img/bg3.svg");
     background-size: contain;
     padding-top: 18vh;
   }
@@ -595,19 +595,19 @@
   }
   .slider .slick-prev {
     left: 21vw;
-    background: url("/img/left.svg") 0 0 no-repeat;
+    background: url("./img/left.svg") 0 0 no-repeat;
     background-position: center;
     background-size: 20%;
   }
   .slider .slick-next {
     right: 21vw;
-    background: url("/img/right.svg") 0 0 no-repeat;
+    background: url("./img/right.svg") 0 0 no-repeat;
     background-position: center;
     background-size: 20%;
   }
   .form-container {
     background-color: #1d1d1d;
-    background-image: url("/img/bg6.png");
+    background-image: url("./img/bg6.png");
     background-size: 100vw;
     padding: 18vh 5vw 12vh;
   }
@@ -691,7 +691,7 @@
     display: flex;
   }
   .form-container .form .form-allowData .form-check__checked {
-    background-image: url("/img/check.png");
+    background-image: url("./img/check.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 90%;
